@@ -8,5 +8,5 @@
 
 \f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 # \uc0\u1101 \u1090 \u1086  \u1087 \u1088 \u1086 \u1089 \u1090 \u1086  \u1090 \u1077 \u1082 \u1089 \u1090  \u1074 \u1085 \u1091 \u1090 \u1088 \u1080  \u1092 \u1072 \u1081 \u1083 \u1072  README.md}
-geerd
+
 /readme end/
